@@ -36,8 +36,6 @@ _Textures work on PC and mobile devices._
 ## Update Logs (Threads)
 
 ```golang
- ⚡(Releases) 🧪(Beta) 📰(Note) ➕(Added) 🚀(Optimized) 🛠️(Repaired) 🧰(Required) 🕐(Paused) 🗑️(Removed)
-
  CreArts Studios | Threads - By Dev.Kany (This Changelogs)
 
  ----------------------------------------------------
@@ -57,6 +55,7 @@ _Textures work on PC and mobile devices._
 
  ----------------------------------------------------
 ```
+
 
 ## LICENCE
 
