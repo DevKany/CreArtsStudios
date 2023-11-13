@@ -50,7 +50,7 @@ _Textures work on PC and mobile devices._
  ➕ New Minecraft "1.20.2 Support"
  ➕ New "Fabric Support"
  ➕ Added new folder 📂 "Sprites"
- ➕ Game, world and advanced "icons designed·.
+ ➕ Game, world and advanced "icons designed".
  🛠️ Removed titles "Brewing Stand & Trades"
 
  ----------------------------------------------------
