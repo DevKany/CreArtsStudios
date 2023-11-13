@@ -21,6 +21,15 @@ _Until now the supported languages are Spanish and English._
 
 _Textures work on PC and mobile devices._
 
+| Resource | TO - _just click one of the links_ :) |
+| ---- | -- |
+| **Threads** | [E7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd6e7%7C35034&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **Overlay`s** | [E7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd7e7%7C35034&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **S & M** | [C8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8c8%7C35034&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **TAGS+** | [E7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce8e7%7C35034&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+
+
+
 ## Downloads:
 
 * Threads
