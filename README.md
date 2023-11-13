@@ -33,6 +33,8 @@ _Textures work on PC and mobile devices._
 2. Move the folder to C:\Users\AppData\Roaming\.minecraft\resourcepacks.
 3. Load the folder in Minecraft.
 
+## Update Logs (Threads)
+
 ```golang
  ⚡(Releases) 🧪(Beta) 📰(Note) ➕(Added) 🚀(Optimized) 🛠️(Repaired) 🧰(Required) 🕐(Paused) 🗑️(Removed)
 
@@ -55,3 +57,50 @@ _Textures work on PC and mobile devices._
 
  ----------------------------------------------------
 ```
+
+## LICENCE
+
+```c#
+
+EULA - Licence
+____________________________________________________________________________________________________
+Copyright (c) 2023 CreArts Studio Product License Agreement and Terms of Use - Version "Build 20"
+____________________________________________________________________________________________________
+This License Agreement and Terms of Use is a legal agreement between you and CreArts Studios for the use of the Vanilla Threads software in its "Build 20" version and any related documentation.
+
+1. Acceptance of Terms
+By installing, copying or using the Software, User agrees to comply with the terms and conditions set forth in this Agreement. If you do not agree to these terms, do not use the Software.
+
+2. License to Use
+Licensor grants User a personal, non-exclusive, non-transferable, revocable license to use the Vanilla Threads Texture Pack on a single device, subject to the terms and conditions of this Agreement.
+
+3. Restrictions
+The User agrees not to:
+a) Copy, modify, translate, decompile, reverse engineer or create derivative works based on the Software.
+b) Distribute, sublicense, rent, lend or transfer the Software to third parties.
+c) Use the Software for illegal or unauthorized purposes.
+d) Delete or modify any copyright, trademark or other proprietary notice from the Software.
+
+4. Updates and Maintenance
+Licensor may provide updates and upgrades to the Software from time to time. These updates may include new features, bug fixes, and security improvements. The User agrees to receive these updates as part of the license granted in this Agreement.
+
+5. Intellectual Property
+The Software, including all copyrights, trademarks and other intellectual property rights, are the exclusive property of Crearts Studios.
+
+6. Limitation of Liability
+The Software is provided "as is" without warranties of any kind. In no event shall Licensor be liable for any direct, indirect, incidental, special, exemplary or consequential damages arising from the use or inability to use the Software.
+
+7. Termination
+Licensor may terminate this Agreement if User breaches any of the terms and conditions. In the event of termination, the User must stop using the Software and destroy all copies in his or her possession.
+
+8. Applicable Law
+This Agreement is governed by the laws of the place where Crearts Studios is located, without regard to its conflicts of law principles.
+
+By installing or using the Vanilla Upgrade Software, the User acknowledges having read and understood this Agreement, and agrees to comply with its terms and conditions. If you have any questions or concerns about this Agreement, please contact Crearts Studios at the address provided in the Software documentation.
+
+Effective date: September 18, 2023
+
+This pack was created by Dev.Kany (https://devkany.carrd.co/)
+(@CreArts Studios)
+```
+
