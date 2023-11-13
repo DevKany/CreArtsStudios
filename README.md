@@ -33,7 +33,7 @@ _Textures work on PC and mobile devices._
 2. Move the folder to C:\Users\AppData\Roaming\.minecraft\resourcepacks.
 3. Load the folder in Minecraft.
 
-```JSON
+```golang
  ⚡(Releases) 🧪(Beta) 📰(Note) ➕(Added) 🚀(Optimized) 🛠️(Repaired) 🧰(Required) 🕐(Paused) 🗑️(Removed)
 
  CreArts Studios | Threads - By Dev.Kany (This Changelogs)
@@ -54,6 +54,4 @@ _Textures work on PC and mobile devices._
  🛠️ Removed titles "Brewing Stand & Trades"
 
  ----------------------------------------------------
-	}
-}
 ```
