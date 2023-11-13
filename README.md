@@ -32,3 +32,28 @@ _Textures work on PC and mobile devices._
 1. Download the texturepack.
 2. Move the folder to C:\Users\AppData\Roaming\.minecraft\resourcepacks.
 3. Load the folder in Minecraft.
+
+```JSON
+ ⚡(Releases) 🧪(Beta) 📰(Note) ➕(Added) 🚀(Optimized) 🛠️(Repaired) 🧰(Required) 🕐(Paused) 🗑️(Removed)
+
+ CreArts Studios | Threads - By Dev.Kany (This Changelogs)
+
+ ----------------------------------------------------
+ 🧪  0.7 - (11/11/2023 - JAVA)
+ 📰 This update requires library 1.20.2
+ 📰 The name was changed to "Threads" since it is capable
+ of combining several characteristics and its development was
+ made in threads
+
+ 🧰 Need Minecraft 1.20.2
+
+ ➕ New Minecraft "1.20.2 Support"
+ ➕ New "Fabric Support"
+ ➕ Added new folder 📂 "Sprites"
+ ➕ Game, world and advanced "icons designed·.
+ 🛠️ Removed titles "Brewing Stand & Trades"
+
+ ----------------------------------------------------
+	}
+}
+```
