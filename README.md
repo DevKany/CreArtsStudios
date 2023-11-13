@@ -26,7 +26,7 @@ _Textures work on PC and mobile devices._
 
 |   | Resource | Release | Version MC | OF | Sodium| Downloads|
 | - | - | - | - | - | - | - |
-| 1 |  Threads | 0.7 | 1.20.2 | ✔ | ✔ |[Download Now](https://github.com/CorellanStoma/CreArts-Obsidian/archive/refs/heads/master.zip) |
+| 1 |  Threads | 0.7 | 1.20.2 | ✔ | ✔ |Coming Soon |
 | 2 |  Overlay`s R | 0.2| 1.20.1 | ✔ | ❌ | [Download Now](https://github.com/CorellanStoma/CreArts-Obsidian/archive/refs/heads/master.zip) |
 | 3 |  Sounds Stylized | 0.1 | 1.20.2 | ❌ |  ❌ | Coming Soon |
 | 4 |  Tags+ | Coming Soon | - | - | - | - |
