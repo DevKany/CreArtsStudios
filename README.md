@@ -26,3 +26,8 @@
 
 * Tags+:
 [Download Now](https://fonts.google.com/specimen/Quicksand)
+
+## Install:
+1. Download the texturepack.
+2. Move the folder to C:\Users\AppData\Roaming\.minecraft\resourcepacks.
+3. Load the folder in Minecraft.
