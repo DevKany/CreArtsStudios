@@ -1,5 +1,9 @@
 # CreArts Studios
 
+
+¡Bienvenidos a la próxima generación de texturas para Minecraft 1.20.2! Sumérgete en un mundo completamente renovado con esta emocionante colección que va más allá de la estética convencional del juego. Estas texturas no solo ofrecen una experiencia visual mejorada, sino que también introducen una variedad de elementos sorprendentes que transforman por completo tu aventura en Minecraft.
+
+
 *Edit with:*
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCODE-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
