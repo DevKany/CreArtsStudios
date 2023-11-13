@@ -24,5 +24,5 @@
 * Sounds & Music:
 [Download Now](https://fonts.google.com/specimen/Quicksand)
 
-* Cits+:
+* Tags+:
 [Download Now](https://fonts.google.com/specimen/Quicksand)
