@@ -17,14 +17,13 @@ _Until now the supported languages are Spanish and English._
 **Versions Available:**
 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 _Textures work on PC and mobile devices._
 
 |   | Resource | Release | Version MC | OF | Sodium| Downloads|
 | - | - | - | - | - | - | - |
-| 1 |  Threads | 0.7 | 1.20.2 | ✔ | ✔ ||
-| 2 |  Overlay`s R | 0.2| 1.20.1 | ✔ | ❌ | |
+| 1 |  Threads | 0.7 | 1.20.2 | ✔ | ✔ |[Download Now](https://github.com/CorellanStoma/CreArts-Obsidian/archive/refs/heads/master.zip) |
+| 2 |  Overlay`s R | 0.2| 1.20.1 | ✔ | ❌ | [Download Now](https://github.com/CorellanStoma/CreArts-Obsidian/archive/refs/heads/master.zip) |
 | 3 |  Sounds Stylized | Not available | - | - |  - | - |
 | 4 |  Tags+ | Not available | - | - | - | - |
 | 5 |  Icons+ | Not available | - | - |  - | - |
