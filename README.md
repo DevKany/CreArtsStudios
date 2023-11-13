@@ -24,9 +24,9 @@ _Textures work on PC and mobile devices._
 | - | - | - | - | - | - | - |
 | 1 |  Threads | 0.7 | 1.20.2 | ✔ | ✔ |[Download Now](https://github.com/CorellanStoma/CreArts-Obsidian/archive/refs/heads/master.zip) |
 | 2 |  Overlay`s R | 0.2| 1.20.1 | ✔ | ❌ | [Download Now](https://github.com/CorellanStoma/CreArts-Obsidian/archive/refs/heads/master.zip) |
-| 3 |  Sounds Stylized | Not available | - | - |  - | - |
-| 4 |  Tags+ | Not available | - | - | - | - |
-| 5 |  Icons+ | Not available | - | - |  - | - |
+| 3 |  Sounds Stylized | 0.1 | 1.20.2 | ❌ |  ❌ | Coming Soon |
+| 4 |  Tags+ | Coming Soon | - | - | - | - |
+| 5 |  Icons+ | Coming Soon | - | - |  - | - |
 
 ## Install:
 1. Download the texturepack.
